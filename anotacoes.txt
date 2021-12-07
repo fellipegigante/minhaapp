@@ -1,0 +1,9 @@
+Visual Studio Code - Editor
+Node - Motor Ex JS
+NPM - https://www.npmjs.com/ - gerenciador de projeto
+npm init - cria id do projeto
+npm run start - exec o projet
+npm i express = npm install express - instala um projeto qqr pelo nome
+
+
+
